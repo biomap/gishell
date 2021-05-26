@@ -7,6 +7,7 @@
 1) open a terminal
 1) install fresh virtualenv
 2) run `pip install -r requirements.txt`
+3) save a copy of `test-config.conf.blank` renaming it to `test-config.conf` and filling in the values
 3) run `\path\to\venv\bin\python3 command.py` 
 
 This will open a subterminal inside of terminal.
