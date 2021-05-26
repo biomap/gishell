@@ -1,4 +1,6 @@
 # GIShell Command Line Tools
+
+## **---THIS IS A PROOF OF CONCEPT ONLY--** 
 ### ArcGIS Online Python API command shell
 
 #### To Use:
