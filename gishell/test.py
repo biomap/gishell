@@ -4,7 +4,7 @@ from configparser import ConfigParser
 
 # Load the configuration file
 cfg = ConfigParser()
-cfg.read("agol_command/test-config.conf")
+cfg.read("test-config.conf")
 
 def basic(url=cfg['agol']['url'],
           username=cfg['agol']['username'],
